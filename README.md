@@ -7,6 +7,7 @@ The result of the work is displayed using the **Fast API** - you can use it for 
 Installation:
 
 > Download the code in any way
+
 > pip install -r twitter_parser\requirements.txt
 > Configure the proxy in the .env file, if required
 
