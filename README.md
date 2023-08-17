@@ -8,6 +8,7 @@ Installation:
 
 > Download the code in any way
 
+> python -m pip install --upgrade pip
 > pip install -r twitter_parser\requirements.txt
 > Configure the proxy in the .env file, if required
 
